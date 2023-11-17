@@ -5,4 +5,4 @@ resources:
 images:
 - name: the-my-app
   newName: 440953937617.dkr.ecr.us-east-2.amazonaws.com/argo-demo
-  newTag: "20231114"
+  newTag: "20231117"
