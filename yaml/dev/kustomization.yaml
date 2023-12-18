@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 images:
 - name: the-my-app
-  newName: 440953937617.dkr.ecr.us-east-2.amazonaws.com/argo-demo
-  newTag: "20231130"
+  newName: 472496548172.dkr.ecr.us-east-2.amazonaws.com/gitlab-argo-aws
+  newTag: "20231218"
