@@ -5,4 +5,4 @@ resources:
 images:
 - name: the-my-app
   newName: 472496548172.dkr.ecr.us-east-2.amazonaws.com/gitlab-argo-aws
-  newTag: "20240125"
+  newTag: "20240126"
