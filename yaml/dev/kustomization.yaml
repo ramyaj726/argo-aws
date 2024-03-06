@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 images:
 - name: the-my-app
-  newName: 440953937617.dkr.ecr.us-east-2.amazonaws.com/helloworld-demo-test
-  newTag: argo-custom
+  newName: 472496548172.dkr.ecr.us-east-2.amazonaws.com/ecr-new-repo
+  newTag: "311"
